@@ -5,10 +5,15 @@
  ## Implementation:
 
 - Write raw SQL queries to read data from a database.
-
 - Implement various filtering and sorting options.
-
 - Retrieve details of specific games, players, and tournaments.
+
+## How to integrate the Backend APIs with FoodieFind’s Frontend UI?
+
+- Copy the Vercel URL.
+- Once done, go to this link: https://bd4-gamestore.vercel.app/ 
+- Paste your Vercel URL to the Server URL text box.
+- Once you click “Save Changes”, it will show the Product Listing page with various filters and sorting parameters.
 
 # Frontend Link: 
 https://bd4-gamestore.vercel.app/ 
